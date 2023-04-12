@@ -1,4 +1,4 @@
-# Stylomatrix
+# Stylomatrix - Authorship Analysis
 
 Authorship_Preprocessing contains the data preprocessing steps for authorship analysis using the Politics Dataset as an example
 
